@@ -1,7 +1,7 @@
 # Sequence-The-Game
 A game developed to challenge your memory.
 
-I have used HTML,CSS,JavaScript and jQuery to present this game as a website.
+I have used HTML,CSS,JavaScript and jQuery to develop this game as a website.
 
 Here is how to play the game:-
 
@@ -9,7 +9,7 @@ Here is how to play the game:-
 
 2)At each Level you will see a button "flash".
 
-3)At each level you have to click all the buttons which have flashed from level 1 to your current level in the sequence they flashed.
+3)At each level you have to click all the buttons which have flashed from Level 1 up to your current level in the sequence they flashed.
 
 4)So at each level, number of buttons to be clicked = Your current level.
 
