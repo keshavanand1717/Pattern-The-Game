@@ -1,5 +1,6 @@
 # Sequence-The-Game
 A game developed to challenge your memory.
+
 I have used HTML,CSS,JavaScript and jQuery to present this game as a website.
 
 Here is how to play the game:-
